@@ -116,4 +116,4 @@ Ho Chi Minh City, Viet Nam
 
 ## Paper
 
-Link paper [github] ()
+Link paper [GitHub](https://github.com/16521716/Sentiment-Analysis-using-BERT/blob/master/Fine-Tuning%20BERT%20on%20Sentiment%20Analysis%20for%20Vietnamese.pdf).
