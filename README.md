@@ -10,6 +10,19 @@ feed-forward neural network, a method we have proposed, in which all output vect
 classification models. Experimental results on two datasets show that models using BERT is outperforming than other
 models. In particular, in both results, our method always produces a model with better performance than the BERTbase method.
 
+## Getting Started
+
+When I work my project, we are working project on Google Colab.
+
+Code structure:
+
+- BERT-base: We use Pretrained BERT model
+- BERT-embedding-CNN: We use finetuning BERT combine TextCNN or RCNN
+- BERT-embedding-LSTM: We use finetuning BERT combine LSTM
+- Data: Data for experiment
+- Test: We use other embedding model combine neural network.
+- Machine Learning Model: We use finetuning BERT combine machine learning algorithm
+
 ## Data
 
 *Data description after preprocessing in Data folder*
