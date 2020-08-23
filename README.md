@@ -23,6 +23,11 @@ Code structure:
 - Test: We use other embedding model combine neural network.
 - Machine Learning Model: We use finetuning BERT combine machine learning algorithm
 
+### Run
+
+Using google colab to training finetuning BERT combine neural networks.
+After, using file predict_text to test with real data.
+
 ## Data
 
 *Data description after preprocessing in Data folder*
